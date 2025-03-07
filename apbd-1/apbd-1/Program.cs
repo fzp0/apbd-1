@@ -5,3 +5,7 @@ Console.WriteLine("ELO WARIATY");
 
 
 Console.WriteLine("CO TAM U WAS");
+
+
+Console.WriteLine("TROCHE SMUTNO CO?");
+
