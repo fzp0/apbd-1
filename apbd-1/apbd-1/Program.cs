@@ -2,3 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("ELO WARIATY");
+
+
+Console.WriteLine("CO TAM U WAS");
